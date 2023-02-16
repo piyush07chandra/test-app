@@ -27,7 +27,7 @@ const Api = () => {
         return (
             <>
             <div className='all' key={curElem.show.id}>
-            {/* <img  src={curElem.show.image.medium}alt="" />  is will gives an error */}
+            {/* <img  src={curElem.show.image.medium}alt="" /> it giv an error  */}
 
             <img src={"https://static.tvmaze.com/uploads/images/medium_portrait/425/1064746.jpg"} alt="" />
             <div className='text'>
